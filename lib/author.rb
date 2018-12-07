@@ -2,8 +2,8 @@ class Author
   
   attr_accessor :name 
   
-  def name
-    @name  
+  def name 
+    @name 
   end 
   
-end
+end 
